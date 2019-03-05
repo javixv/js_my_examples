@@ -1,0 +1,18 @@
+#container {
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    text-align: center;
+    
+}
+
+#button{
+    margin-top: 2mm;
+}
+
+.punto{
+    width: 20px;
+    height: 20px;
+    background: tomato;
+    position: absolute;
+}
